@@ -1,0 +1,13 @@
+1-Salve o arquivo av1-2021.txt com todas as suas respostas, seu nome e matricula
+
+2-Use o comando para listar todos os arquivos de sua pasta principal e direcione o resultado 
+para o arquivo final.txt
+
+3-Certifique-se que esteja dentro de seu repositorio criado:
+git add *
+git commit -m " trabalho seu nome"
+git push
+
+
+4-Ao terminar entre no link abaixo:
+https://forms.gle/sbpvvnNavos27S6e6
