@@ -1,0 +1,10 @@
+arquivosvitoria
+av1-vitoria.txt
+final.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+README.md
+ultimocomando.txt
